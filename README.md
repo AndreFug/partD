@@ -16,3 +16,16 @@
 ![image](https://github.com/AndreFug/partD/assets/67748209/e5740a0c-4ed9-4d64-8246-bb50551a6271)
 ![image](https://github.com/AndreFug/partD/assets/67748209/cfb9e4ff-639a-474f-8c41-4aadcab3b437)
 
+# Rule base 3
+## Rules
+![image](https://github.com/AndreFug/partD/assets/67748209/201dac19-815c-4110-bb14-0cc539e42dca)
+![image](https://github.com/AndreFug/partD/assets/67748209/2228784c-5f25-4e2f-b900-d1cb94af45ba)
+
+## Controll surface
+
+![image](https://github.com/AndreFug/partD/assets/67748209/a9b5129b-d22d-4d06-9daa-b41cf7355e53)
+// Not able to turn around
+
+## Rule interferance
+![image](https://github.com/AndreFug/partD/assets/67748209/f5fab82d-81c6-450a-965d-8dce1b30a253)
+![image](https://github.com/AndreFug/partD/assets/67748209/a14f796e-0c4d-4c1b-ba01-aee8c60ca4f9)
