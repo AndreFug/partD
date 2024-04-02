@@ -13,6 +13,6 @@
 ## Control surface
 ![image](https://github.com/AndreFug/partD/assets/67748209/35759907-b4a7-4123-88ea-64ecd7a3c8cb)
 ## Rule interferance
-![image](https://github.com/AndreFug/partD/assets/67748209/1ffb26ec-eb07-482c-8bc2-b49f552c932b)
+![image](https://github.com/AndreFug/partD/assets/67748209/e5740a0c-4ed9-4d64-8246-bb50551a6271)
 ![image](https://github.com/AndreFug/partD/assets/67748209/cfb9e4ff-639a-474f-8c41-4aadcab3b437)
 
